@@ -57,7 +57,7 @@ Software engineer and founder based in **Indore, India**, building **end-to-end 
 - **Web performance & quality** — Core Web Vitals, accessibility, type-safe codebases, QA automation  
 - **Growth engineering** — technical SEO, landing systems, consent-aware analytics, CRM webhooks  
 - **AI product features** — LLM APIs, prompt tooling, content/retention workflows  
-- **YouTube systems** — channel builds, series design, packaging & growth operations  
+- **Faceless YouTube systems** — channel builds our team still operates (series, packaging, growth)  
 - **Founder-mode execution** — scope → ship → iterate with client accountability  
 
 ---
@@ -73,25 +73,26 @@ Software engineer and founder based in **Indore, India**, building **end-to-end 
 
 ---
 
-## YouTube channels built & operated
+## YouTube — faceless channels (built & team-operated)
 
-Beyond client software, I design and run **full YouTube channel systems** — niche positioning, content pipelines, scripting, packaging, SEO and publishing operations.
+I build **faceless YouTube channel systems** end-to-end. These brands are **still actively handled by our team** — strategy, production pipelines, packaging and growth ops — not one-off client demos.
 
-| Channel | Focus | Link |
-|---------|--------|------|
-| **Kitaab Nest** | Book summaries & knowledge content (audio-first learning) | [youtube.com/@KitaabNest](https://www.youtube.com/@KitaabNest) |
-| **The Velvet Dossier** | Premium narrative / story-driven content systems | [youtube.com/@TheVelvetDossier](https://www.youtube.com/@TheVelvetDossier) |
-| **The Access Route** | Research-led luxury travel & hotels (Top 10 format) | [youtube.com/@theaccessroute](https://www.youtube.com/@theaccessroute) |
+| Channel | Type | Focus | Link |
+|---------|------|--------|------|
+| **Kitaab Nest** | Faceless | Book summaries & knowledge (audio-first learning) | [youtube.com/@KitaabNest](https://www.youtube.com/@KitaabNest) |
+| **The Velvet Dossier** | Faceless | Premium narrative / story-driven content | [youtube.com/@TheVelvetDossier](https://www.youtube.com/@TheVelvetDossier) |
+| **The Access Route** | Faceless | Research-led luxury travel & hotels (Top 10) | [youtube.com/@theaccessroute](https://www.youtube.com/@theaccessroute) |
 
-**What I own on a channel build:**
+**System we run on faceless channels:**
 
-- Niche + series architecture  
+- Niche + series architecture (no on-camera creator dependency)  
 - Script / retention-aware storytelling  
 - Thumbnail–title packaging systems  
-- Production pipelines (research → script → publish)  
-- Growth loops that connect content → brand → product (e.g. RetentionYT)
+- Production pipelines (research → script → edit → publish)  
+- Team workflows for ongoing publishing & growth  
+- Feedback loops into products like [RetentionYT](https://retentionyt.com)
 
-> Public metrics move over time — channels above are live production work, not demos.
+> All three channels are **faceless** and remain under **active team operations**.
 
 ---
 
