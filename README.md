@@ -1,4 +1,4 @@
-<!-- https://github.com/nirmallashkari -->
+<!-- https://github.com/nirmallashkari | dark theme profile -->
 
 <div align="center">
   <img src="assets/nirmal-lashkari.png" width="140" height="140" alt="Nirmal Lashkari" />
@@ -8,12 +8,14 @@
   **Software Engineer · Systems Builder · Product Founder**  
   Shipping production web systems, growth infrastructure & AI-powered products
 
-  `Next.js` `TypeScript` `Python` `System Design` `SEO Systems` `AI / LLM` `Vercel`
+  <code>Next.js</code> · <code>TypeScript</code> · <code>Python</code> · <code>System Design</code> · <code>AI / LLM</code> · <code>Vercel</code>
 
-  [![Website](https://img.shields.io/badge/GD_Digital-gddigitalmarketing.com-111827?style=flat-square)](https://gddigitalmarketing.com)
-  [![Product](https://img.shields.io/badge/Product-retentionyt.com-111827?style=flat-square)](https://retentionyt.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-nirmallashkari90-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirmallashkari90/)
-  [![Email](https://img.shields.io/badge/Email-hello@gddigitalmarketing.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@gddigitalmarketing.com)
+  <br/>
+
+  <a href="https://gddigitalmarketing.com"><img src="https://img.shields.io/badge/GD_Digital-gddigitalmarketing.com-0d1117?style=for-the-badge&labelColor=161b22&color=58a6ff" alt="Website"/></a>
+  <a href="https://retentionyt.com"><img src="https://img.shields.io/badge/Product-retentionyt.com-0d1117?style=for-the-badge&labelColor=161b22&color=3fb950" alt="Product"/></a>
+  <a href="https://www.linkedin.com/in/nirmallashkari90/"><img src="https://img.shields.io/badge/LinkedIn-nirmallashkari90-0d1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161b22&color=1f6feb" alt="LinkedIn"/></a>
+  <a href="mailto:hello@gddigitalmarketing.com"><img src="https://img.shields.io/badge/Email-hello@gddigitalmarketing.com-0d1117?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161b22&color=f85149" alt="Email"/></a>
 
 </div>
 
@@ -22,8 +24,6 @@
 ## Profile
 
 Software engineer and founder based in **Indore, India**, building **end-to-end digital products** — from architecture and implementation to SEO, conversion systems, and production operations.
-
-I combine engineering depth with business context:
 
 | Background | Detail |
 |------------|--------|
@@ -70,28 +70,20 @@ I combine engineering depth with business context:
 | **NSE Scan** | Market intelligence platform | Python · Next.js · data pipelines · dashboards | [nsescan.vercel.app](https://nsescan.vercel.app) |
 | **Prompt Architect** | Prompt engineering products | Next.js · TypeScript · SaaS patterns | Vercel deployments |
 
-Representative engineering practices used across projects:
-
-- Typed domain models & validation (Zod / TS strict)  
-- Rate-limited APIs, honeypot & idempotent lead ingestion  
-- File-based CMS + structured content pipelines  
-- Smoke tests, link checks, Lighthouse-driven performance work  
-- Privacy-aware analytics (consent-gated GTM / GA4 / Meta)
-
 ---
 
 ## Tech stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=161b22" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=161b22" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=161b22" alt="React" />
+  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=161b22" alt="Python" />
+  <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933&labelColor=161b22" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=161b22" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=161b22" alt="Vercel" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1&labelColor=161b22" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=2088FF&labelColor=161b22" alt="GitHub Actions" />
 </p>
 
 ---
@@ -109,12 +101,12 @@ Representative engineering practices used across projects:
 ## GitHub activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nirmallashkari&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirmallashkari&layout=compact&theme=radical&hide_border=true&count_private=true" height="165" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nirmallashkari&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true" height="165" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirmallashkari&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&count_private=true" height="165" alt="languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirmallashkari&theme=radical&hide_border=true" alt="streak" />
+  <img src="https://streak-stats.demolab.com/?user=nirmallashkari&theme=github-dark-blue&hide_border=true&background=0D1117" alt="streak" />
 </div>
 
 ---
@@ -137,6 +129,6 @@ Building something serious — product, platform, or growth system? Let's talk.
 
 **Engineer first. Founder when needed. Always shipping.**
 
-[![Follow @nirmallashkari](https://img.shields.io/github/followers/nirmallashkari?label=Follow&style=social)](https://github.com/nirmallashkari)
+<a href="https://github.com/nirmallashkari"><img src="https://img.shields.io/github/followers/nirmallashkari?label=Follow%20%40nirmallashkari&style=social" alt="Follow"/></a>
 
 </div>
