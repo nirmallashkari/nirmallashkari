@@ -1,4 +1,4 @@
-<!-- https://github.com/nirmalindb -->
+<!-- https://github.com/nirmallashkari -->
 
 <div align="center">
   <img src="assets/nirmal-lashkari.png" width="140" height="140" alt="Nirmal Lashkari" />
@@ -109,12 +109,12 @@ Representative engineering practices used across projects:
 ## GitHub activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nirmalindb&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirmalindb&layout=compact&theme=radical&hide_border=true&count_private=true" height="165" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nirmallashkari&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirmallashkari&layout=compact&theme=radical&hide_border=true&count_private=true" height="165" alt="languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirmalindb&theme=radical&hide_border=true" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirmallashkari&theme=radical&hide_border=true" alt="streak" />
 </div>
 
 ---
@@ -137,6 +137,6 @@ Building something serious — product, platform, or growth system? Let's talk.
 
 **Engineer first. Founder when needed. Always shipping.**
 
-[![Follow @nirmalindb](https://img.shields.io/github/followers/nirmalindb?label=Follow&style=social)](https://github.com/nirmalindb)
+[![Follow @nirmallashkari](https://img.shields.io/github/followers/nirmallashkari?label=Follow&style=social)](https://github.com/nirmallashkari)
 
 </div>
