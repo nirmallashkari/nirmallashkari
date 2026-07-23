@@ -75,24 +75,23 @@ Software engineer and founder based in **Indore, India**, building **end-to-end 
 
 ## YouTube — faceless channels (built & team-operated)
 
-I build **faceless YouTube channel systems** end-to-end. These brands are **still actively handled by our team** — strategy, production pipelines, packaging and growth ops — not one-off client demos.
+I build **faceless YouTube channel systems** end-to-end. These brands are **still actively handled by our team** — strategy, production pipelines, packaging and growth ops — not one-off demos.
 
-| Channel | Type | Focus | Link |
-|---------|------|--------|------|
-| **Kitaab Nest** | Faceless | Book summaries & knowledge (audio-first learning) | [youtube.com/@KitaabNest](https://www.youtube.com/@KitaabNest) |
-| **The Velvet Dossier** | Faceless | Premium narrative / story-driven content | [youtube.com/@TheVelvetDossier](https://www.youtube.com/@TheVelvetDossier) |
-| **The Access Route** | Faceless | Research-led luxury travel & hotels (Top 10) | [youtube.com/@theaccessroute](https://www.youtube.com/@theaccessroute) |
+| Channel | Type | Focus | Scale (approx.) | Link |
+|---------|------|--------|-----------------|------|
+| **Kitaab Nest** | Faceless | Hindi book summaries / knowledge (audio-first) | **~10.9K** subscribers · strong 28-day growth | [youtube.com/@KitaabNest](https://www.youtube.com/@KitaabNest) |
+| **The Velvet Dossier** | Faceless | Premium narrative / music-story content | **~2.0K** subscribers · YouTube Partner milestone | [youtube.com/@TheVelvetDossier](https://www.youtube.com/@TheVelvetDossier) |
+| **The Access Route** | Faceless | Research-led luxury travel & hotels (Top 10) | Live channel · team-operated | [youtube.com/@theaccessroute](https://www.youtube.com/@theaccessroute) |
 
-**System we run on faceless channels:**
+**Operating model:**
 
-- Niche + series architecture (no on-camera creator dependency)  
-- Script / retention-aware storytelling  
-- Thumbnail–title packaging systems  
-- Production pipelines (research → script → edit → publish)  
-- Team workflows for ongoing publishing & growth  
-- Feedback loops into products like [RetentionYT](https://retentionyt.com)
+- Fully **faceless** (no on-camera creator dependency)  
+- Niche + series architecture, retention-aware scripting  
+- Thumbnail–title packaging & publish pipelines  
+- Ongoing **team ops** (not “set and forget”)  
+- Learnings feed product work like [RetentionYT](https://retentionyt.com)
 
-> All three channels are **faceless** and remain under **active team operations**.
+> Subscriber counts are approximate and change over time. Channels remain under active team management.
 
 ---
 
