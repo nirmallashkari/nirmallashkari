@@ -57,6 +57,7 @@ Software engineer and founder based in **Indore, India**, building **end-to-end 
 - **Web performance & quality** — Core Web Vitals, accessibility, type-safe codebases, QA automation  
 - **Growth engineering** — technical SEO, landing systems, consent-aware analytics, CRM webhooks  
 - **AI product features** — LLM APIs, prompt tooling, content/retention workflows  
+- **YouTube systems** — channel builds, series design, packaging & growth operations  
 - **Founder-mode execution** — scope → ship → iterate with client accountability  
 
 ---
@@ -69,6 +70,28 @@ Software engineer and founder based in **Indore, India**, building **end-to-end 
 | **RetentionYT** | AI SaaS (YouTube retention / scripts) | Next.js · TypeScript · AI APIs · Vercel | [retentionyt.com](https://retentionyt.com) |
 | **NSE Scan** | Market intelligence platform | Python · Next.js · data pipelines · dashboards | [nsescan.vercel.app](https://nsescan.vercel.app) |
 | **Prompt Architect** | Prompt engineering products | Next.js · TypeScript · SaaS patterns | Vercel deployments |
+
+---
+
+## YouTube channels built & operated
+
+Beyond client software, I design and run **full YouTube channel systems** — niche positioning, content pipelines, scripting, packaging, SEO and publishing operations.
+
+| Channel | Focus | Link |
+|---------|--------|------|
+| **Kitaab Nest** | Book summaries & knowledge content (audio-first learning) | [youtube.com/@KitaabNest](https://www.youtube.com/@KitaabNest) |
+| **The Velvet Dossier** | Premium narrative / story-driven content systems | [youtube.com/@TheVelvetDossier](https://www.youtube.com/@TheVelvetDossier) |
+| **The Access Route** | Research-led luxury travel & hotels (Top 10 format) | [youtube.com/@theaccessroute](https://www.youtube.com/@theaccessroute) |
+
+**What I own on a channel build:**
+
+- Niche + series architecture  
+- Script / retention-aware storytelling  
+- Thumbnail–title packaging systems  
+- Production pipelines (research → script → publish)  
+- Growth loops that connect content → brand → product (e.g. RetentionYT)
+
+> Public metrics move over time — channels above are live production work, not demos.
 
 ---
 
