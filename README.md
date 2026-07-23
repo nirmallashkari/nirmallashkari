@@ -1,123 +1,134 @@
-<!-- https://github.com/nirmallashkari | dark theme profile -->
+<!-- https://github.com/nirmallashkari | dark expert profile -->
 
 <div align="center">
   <img src="assets/nirmal-lashkari.png" width="140" height="140" alt="Nirmal Lashkari" />
 
   # Nirmal Lashkari
 
-  **Software Engineer · Systems Builder · Product Founder**  
-  Shipping production web systems, growth infrastructure & AI-powered products
+  ### Software Engineer · Systems Builder · Product Founder  
+  **Founder & MD** · [GD Digital Marketing](https://gddigitalmarketing.com) · Indore, India
 
-  <code>Next.js</code> · <code>TypeScript</code> · <code>Python</code> · <code>System Design</code> · <code>AI / LLM</code> · <code>Vercel</code>
+  <code>Next.js</code> · <code>TypeScript</code> · <code>Python</code> · <code>System Design</code> · <code>AI / LLM</code> · <code>Faceless YouTube OS</code>
 
   <br/>
 
-  <a href="https://gddigitalmarketing.com"><img src="https://img.shields.io/badge/GD_Digital-gddigitalmarketing.com-0d1117?style=for-the-badge&labelColor=161b22&color=58a6ff" alt="Website"/></a>
-  <a href="https://retentionyt.com"><img src="https://img.shields.io/badge/Product-retentionyt.com-0d1117?style=for-the-badge&labelColor=161b22&color=3fb950" alt="Product"/></a>
-  <a href="https://www.linkedin.com/in/nirmallashkari90/"><img src="https://img.shields.io/badge/LinkedIn-nirmallashkari90-0d1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161b22&color=1f6feb" alt="LinkedIn"/></a>
-  <a href="mailto:hello@gddigitalmarketing.com"><img src="https://img.shields.io/badge/Email-hello@gddigitalmarketing.com-0d1117?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161b22&color=f85149" alt="Email"/></a>
+  <a href="https://gddigitalmarketing.com"><img src="https://img.shields.io/badge/Agency-gddigitalmarketing.com-0d1117?style=for-the-badge&labelColor=161b22&color=58a6ff" alt="Agency"/></a>
+  <a href="https://retentionyt.com"><img src="https://img.shields.io/badge/SaaS-retentionyt.com-0d1117?style=for-the-badge&labelColor=161b22&color=3fb950" alt="SaaS"/></a>
+  <a href="https://github.com/nirmallashkari/systems-showcase"><img src="https://img.shields.io/badge/Public-systems--showcase-0d1117?style=for-the-badge&labelColor=161b22&color=a371f7" alt="Showcase"/></a>
+  <a href="https://www.linkedin.com/in/nirmallashkari90/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161b22&color=1f6feb" alt="LinkedIn"/></a>
+
+  <br/>
+
+  ![](https://komarev.com/ghpvc/?username=nirmallashkari&style=flat-square&color=58a6ff&label=Profile+views)
 
 </div>
 
 ---
 
-## Profile
+## Snapshot
 
-Software engineer and founder based in **Indore, India**, building **end-to-end digital products** — from architecture and implementation to SEO, conversion systems, and production operations.
+| | |
+|--|--|
+| **Who** | Software engineer + founder shipping production systems |
+| **What** | Web platforms, AI products, growth infrastructure, faceless YouTube ops |
+| **Where** | Indore, India · clients across US / UK / Canada / AU / EU / Middle East |
+| **Proof** | Live products + team-operated channels (metrics below) |
+| **Open notes** | [systems-showcase](https://github.com/nirmallashkari/systems-showcase) (architecture & case notes) |
 
-| Background | Detail |
-|------------|--------|
-| Role | Founder & Managing Director, [GD Digital Marketing](https://gddigitalmarketing.com) |
-| Engineering | Full-stack product development (web platforms, APIs, dashboards) |
-| Domain | Digital growth systems, YouTube/content tooling, lead infrastructure |
-| Education | MBA, DAVV University, Indore |
-| Experience | 5+ years digital marketing systems · 10 years corporate (pharma) |
-| Markets | US · UK · Canada · Australia · Europe · Middle East |
-
-**Focus:** reliability, performance, clean architecture, measurable outcomes — not template demos.
+**MBA (DAVV, Indore)** · **5+ yrs digital systems** · **10 yrs corporate (pharma)** · engineer + operator mindset
 
 ---
 
-## Engineering focus
+## Impact at a glance
+
+| Signal | Detail |
+|--------|--------|
+| **Kitaab Nest** | Faceless knowledge channel · **~10.9K** subscribers · active team ops |
+| **The Velvet Dossier** | Faceless narrative channel · **~2.0K** subscribers · YPP milestone |
+| **The Access Route** | Faceless luxury travel research · live · team-operated |
+| **RetentionYT** | AI script-retention SaaS · [retentionyt.com](https://retentionyt.com) |
+| **GD Digital** | Conversion site + lead engine · [gddigitalmarketing.com](https://gddigitalmarketing.com) |
+| **NSE Scan** | Market intelligence platform · [nsescan.vercel.app](https://nsescan.vercel.app) |
+
+---
+
+## Engineering systems
 
 ```text
-┌─────────────────────────────────────────────────────────────┐
-│  Product surface     Next.js · React · TypeScript · Tailwind │
-│  Services / APIs     Node · Python · Serverless · Webhooks   │
-│  Data                Postgres / Supabase · pipelines · ETL   │
-│  Delivery            Vercel · CI · observability · QA gates  │
-│  Growth layer        SEO · analytics · conversion systems    │
-│  Intelligence        LLM integrations · prompt systems       │
-└─────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────┐
+│  Product UI          Next.js · React · TypeScript · Tailwind │
+│  APIs / jobs         Node · Python · serverless · webhooks   │
+│  Data                Postgres / Supabase · pipelines         │
+│  Delivery            Vercel · CI · QA gates · runbooks       │
+│  Growth layer        SEO · consent analytics · CRM hooks     │
+│  Content OS          Faceless YT pipelines (team-run)        │
+│  Intelligence        LLM features · prompt productization    │
+└──────────────────────────────────────────────────────────────┘
 ```
 
-### Core competencies
+### Competencies
 
-- **Full-stack product engineering** — multi-page apps, auth flows, dashboards, background jobs  
-- **Web performance & quality** — Core Web Vitals, accessibility, type-safe codebases, QA automation  
-- **Growth engineering** — technical SEO, landing systems, consent-aware analytics, CRM webhooks  
-- **AI product features** — LLM APIs, prompt tooling, content/retention workflows  
-- **Faceless YouTube systems** — channel builds our team still operates (series, packaging, growth)  
-- **Founder-mode execution** — scope → ship → iterate with client accountability  
-
----
-
-## Production systems
-
-| System | Type | Stack highlights | Live |
-|--------|------|------------------|------|
-| **GD Digital Marketing** | Agency platform & lead engine | Next.js 16 · TS · Zod · analytics · CRM hooks | [gddigitalmarketing.com](https://gddigitalmarketing.com) |
-| **RetentionYT** | AI SaaS (YouTube retention / scripts) | Next.js · TypeScript · AI APIs · Vercel | [retentionyt.com](https://retentionyt.com) |
-| **NSE Scan** | Market intelligence platform | Python · Next.js · data pipelines · dashboards | [nsescan.vercel.app](https://nsescan.vercel.app) |
-| **Prompt Architect** | Prompt engineering products | Next.js · TypeScript · SaaS patterns | Vercel deployments |
+- Full-stack product engineering (auth, dashboards, APIs, deploy)
+- Performance & quality (CWV, a11y, typed boundaries, automated checks)
+- Growth engineering (landing systems, measurement, lead integrity)
+- AI product features (LLM workflows with honest UX framing)
+- **Faceless YouTube operating systems** our team still runs
+- Founder execution: scope → ship → operate → improve
 
 ---
 
-## YouTube — faceless channels (built & team-operated)
+## Featured work
 
-I build **faceless YouTube channel systems** end-to-end. These brands are **still actively handled by our team** — strategy, production pipelines, packaging and growth ops — not one-off demos.
+| System | Type | Live |
+|--------|------|------|
+| **GD Digital Marketing** | Agency platform · leads · analytics | [gddigitalmarketing.com](https://gddigitalmarketing.com) |
+| **RetentionYT** | AI SaaS for script retention | [retentionyt.com](https://retentionyt.com) |
+| **NSE Scan** | Scan → signal → tracking platform | [nsescan.vercel.app](https://nsescan.vercel.app) |
+| **Systems Showcase** | Public architecture & proof notes | [github.com/nirmallashkari/systems-showcase](https://github.com/nirmallashkari/systems-showcase) |
 
-| Channel | Type | Focus | Scale (approx.) | Link |
-|---------|------|--------|-----------------|------|
-| **Kitaab Nest** | Faceless | Hindi book summaries / knowledge (audio-first) | **~10.9K** subscribers · strong 28-day growth | [youtube.com/@KitaabNest](https://www.youtube.com/@KitaabNest) |
-| **The Velvet Dossier** | Faceless | Premium narrative / music-story content | **~2.0K** subscribers · YouTube Partner milestone | [youtube.com/@TheVelvetDossier](https://www.youtube.com/@TheVelvetDossier) |
-| **The Access Route** | Faceless | Research-led luxury travel & hotels (Top 10) | Live channel · team-operated | [youtube.com/@theaccessroute](https://www.youtube.com/@theaccessroute) |
+Deep dives (patterns, diagrams, operating model):  
+→ **[systems-showcase](https://github.com/nirmallashkari/systems-showcase)** · **[ARCHITECTURE.md](https://github.com/nirmallashkari/systems-showcase/blob/main/ARCHITECTURE.md)**
 
-**Operating model:**
+---
 
-- Fully **faceless** (no on-camera creator dependency)  
-- Niche + series architecture, retention-aware scripting  
-- Thumbnail–title packaging & publish pipelines  
-- Ongoing **team ops** (not “set and forget”)  
-- Learnings feed product work like [RetentionYT](https://retentionyt.com)
+## Faceless YouTube OS (team-operated)
 
-> Subscriber counts are approximate and change over time. Channels remain under active team management.
+| Channel | Focus | Scale | Link |
+|---------|--------|-------|------|
+| **Kitaab Nest** | Hindi book summaries / knowledge | **~10.9K** subs | [@KitaabNest](https://www.youtube.com/@KitaabNest) |
+| **The Velvet Dossier** | Premium narrative / music-story | **~2.0K** subs · Partner | [@TheVelvetDossier](https://www.youtube.com/@TheVelvetDossier) |
+| **The Access Route** | Luxury hotels Top-10 research | Live · team ops | [@theaccessroute](https://www.youtube.com/@theaccessroute) |
+
+All three are **faceless** and **still handled by our team** (not archived experiments).
+
+```text
+Research → Script system → Production → Packaging → Publish cadence → Analytics → Iterate
+```
 
 ---
 
 ## Tech stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=161b22" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=161b22" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=161b22" alt="TS" />
+  <img src="https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=161b22" alt="Next" />
   <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=161b22" alt="React" />
   <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=161b22" alt="Python" />
-  <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933&labelColor=161b22" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=161b22" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933&labelColor=161b22" alt="Node" />
   <img src="https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=161b22" alt="Vercel" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1&labelColor=161b22" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=2088FF&labelColor=161b22" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1&labelColor=161b22" alt="PG" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=2088FF&labelColor=161b22" alt="GHA" />
 </p>
 
 ---
 
-## How I work
+## How I ship
 
-1. **Clarify the system** — users, constraints, success metrics  
-2. **Design the architecture** — data model, surfaces, integrations  
-3. **Ship production-quality slices** — not throwaway prototypes  
-4. **Instrument & improve** — performance, conversion, reliability  
-5. **Own the outcome** — communication, iteration, long-term maintainability  
+1. Define user + metric  
+2. Design architecture (data, surfaces, integrations)  
+3. Ship production slice  
+4. Instrument (perf / conversion / ops)  
+5. Hand to team processes — systems over heroics  
 
 ---
 
@@ -125,7 +136,7 @@ I build **faceless YouTube channel systems** end-to-end. These brands are **stil
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nirmallashkari&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true" height="165" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirmallashkari&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&count_private=true" height="165" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirmallashkari&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&count_private=true" height="165" alt="langs" />
 </div>
 
 <div align="center">
@@ -134,17 +145,25 @@ I build **faceless YouTube channel systems** end-to-end. These brands are **stil
 
 ---
 
-## Connect
+## Open to
 
-Building something serious — product, platform, or growth system? Let's talk.
+- Product / platform engineering collaborations  
+- Serious website + growth system builds  
+- Faceless channel system design for brands  
+- AI features that solve real creator/business workflows  
+
+---
+
+## Connect
 
 | | |
 |--|--|
-| **Agency / consulting** | [gddigitalmarketing.com](https://gddigitalmarketing.com) |
+| **Agency** | [gddigitalmarketing.com](https://gddigitalmarketing.com) |
+| **Showcase** | [systems-showcase](https://github.com/nirmallashkari/systems-showcase) |
 | **LinkedIn** | [linkedin.com/in/nirmallashkari90](https://www.linkedin.com/in/nirmallashkari90/) |
 | **Email** | [hello@gddigitalmarketing.com](mailto:hello@gddigitalmarketing.com) |
-| **WhatsApp** | [+91 99933 20540](https://wa.me/919993320540?text=Hi%20Nirmal%2C%20I%20found%20your%20GitHub%20profile) |
-| **Strategy call** | [Book a free call](https://gddigitalmarketing.com/book-consultation) |
+| **WhatsApp** | [+91 99933 20540](https://wa.me/919993320540?text=Hi%20Nirmal%2C%20I%20found%20your%20GitHub) |
+| **Book a call** | [Free strategy call](https://gddigitalmarketing.com/book-consultation) |
 
 ---
 
