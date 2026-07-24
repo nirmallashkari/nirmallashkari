@@ -6,13 +6,13 @@
   # Nirmal Lashkari
 
   ### Software Engineer · Systems Builder · Product Founder  
-  **Founder & MD** · [GD Digital Marketing](https://gddigitalmarketing.com) · Indore, India
+  **Founder** · [First Look Sites](https://first-look-sites.vercel.app) · Indore, India · [@nirmallashkari](https://github.com/nirmallashkari)
 
   <code>Next.js</code> · <code>TypeScript</code> · <code>Python</code> · <code>System Design</code> · <code>AI / LLM</code> · <code>Faceless YouTube OS</code>
 
   <br/>
 
-  <a href="https://gddigitalmarketing.com"><img src="https://img.shields.io/badge/Agency-gddigitalmarketing.com-0d1117?style=for-the-badge&labelColor=161b22&color=58a6ff" alt="Agency"/></a>
+  <a href="https://first-look-sites.vercel.app"><img src="https://img.shields.io/badge/Studio-First%20Look%20Sites-0d1117?style=for-the-badge&labelColor=161b22&color=58a6ff" alt="First Look Sites"/></a>
   <a href="https://retentionyt.com"><img src="https://img.shields.io/badge/SaaS-retentionyt.com-0d1117?style=for-the-badge&labelColor=161b22&color=3fb950" alt="SaaS"/></a>
   <a href="https://github.com/nirmallashkari/systems-showcase"><img src="https://img.shields.io/badge/Public-systems--showcase-0d1117?style=for-the-badge&labelColor=161b22&color=a371f7" alt="Showcase"/></a>
   <a href="https://www.linkedin.com/in/nirmallashkari90/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161b22&color=1f6feb" alt="LinkedIn"/></a>
@@ -32,8 +32,10 @@
 | **Who** | Software engineer + founder shipping production systems |
 | **What** | Web platforms, AI products, growth infrastructure, faceless YouTube ops |
 | **Where** | Indore, India · clients across US / UK / Canada / AU / EU / Middle East |
+| **Studio** | [First Look Sites](https://first-look-sites.vercel.app) — preview-first websites for local professionals |
 | **Proof** | Live products + team-operated channels (metrics below) |
 | **Open notes** | [systems-showcase](https://github.com/nirmallashkari/systems-showcase) (architecture & case notes) |
+| **GitHub** | [@nirmallashkari](https://github.com/nirmallashkari) |
 
 **MBA (DAVV, Indore)** · **5+ yrs digital systems** · **10 yrs corporate (pharma)** · engineer + operator mindset
 
@@ -43,11 +45,11 @@
 
 | Signal | Detail |
 |--------|--------|
+| **First Look Sites** | Preview-first websites for dentists, agents & lawyers · [first-look-sites.vercel.app](https://first-look-sites.vercel.app) |
 | **Kitaab Nest** | Faceless knowledge channel · **~10.9K** subscribers · active team ops |
 | **The Velvet Dossier** | Faceless narrative channel · **~2.0K** subscribers · YPP milestone |
 | **The Access Route** | Faceless luxury travel research · live · team-operated |
 | **RetentionYT** | AI script-retention SaaS · [retentionyt.com](https://retentionyt.com) |
-| **GD Digital** | Conversion site + lead engine · [gddigitalmarketing.com](https://gddigitalmarketing.com) |
 | **NSE Scan** | Market intelligence platform · [nsescan.vercel.app](https://nsescan.vercel.app) |
 
 ---
@@ -74,6 +76,7 @@
 - AI product features (LLM workflows with honest UX framing)
 - **Faceless YouTube operating systems** our team still runs
 - Founder execution: scope → ship → operate → improve
+- **Preview-first delivery** for professional practice websites
 
 ---
 
@@ -81,7 +84,7 @@
 
 | System | Type | Live |
 |--------|------|------|
-| **GD Digital Marketing** | Agency platform · leads · analytics | [gddigitalmarketing.com](https://gddigitalmarketing.com) |
+| **First Look Sites** | Studio · preview-first websites · professionals | [first-look-sites.vercel.app](https://first-look-sites.vercel.app) |
 | **RetentionYT** | AI SaaS for script retention | [retentionyt.com](https://retentionyt.com) |
 | **NSE Scan** | Scan → signal → tracking platform | [nsescan.vercel.app](https://nsescan.vercel.app) |
 | **Systems Showcase** | Public architecture & proof notes | [github.com/nirmallashkari/systems-showcase](https://github.com/nirmallashkari/systems-showcase) |
@@ -147,8 +150,8 @@ Research → Script system → Production → Packaging → Publish cadence → 
 
 ## Open to
 
+- Preview-first website builds for dentists, agents & lawyers (tier-1 markets)  
 - Product / platform engineering collaborations  
-- Serious website + growth system builds  
 - Faceless channel system design for brands  
 - AI features that solve real creator/business workflows  
 
@@ -158,12 +161,13 @@ Research → Script system → Production → Packaging → Publish cadence → 
 
 | | |
 |--|--|
-| **Agency** | [gddigitalmarketing.com](https://gddigitalmarketing.com) |
+| **Studio** | [First Look Sites](https://first-look-sites.vercel.app) |
+| **GitHub** | [@nirmallashkari](https://github.com/nirmallashkari) |
 | **Showcase** | [systems-showcase](https://github.com/nirmallashkari/systems-showcase) |
 | **LinkedIn** | [linkedin.com/in/nirmallashkari90](https://www.linkedin.com/in/nirmallashkari90/) |
-| **Email** | [hello@gddigitalmarketing.com](mailto:hello@gddigitalmarketing.com) |
+| **Email** | [lashkarinirmal@gmail.com](mailto:lashkarinirmal@gmail.com) |
 | **WhatsApp** | [+91 99933 20540](https://wa.me/919993320540?text=Hi%20Nirmal%2C%20I%20found%20your%20GitHub) |
-| **Book a call** | [Free strategy call](https://gddigitalmarketing.com/book-consultation) |
+| **Request preview** | [Apply for a website preview](https://first-look-sites.vercel.app/book-consultation?intent=preview) |
 
 ---
 
