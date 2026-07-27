@@ -45,7 +45,7 @@
 
 | Signal | Detail |
 |--------|--------|
-| **First Look Sites** | Preview-first websites for dentists, agents & lawyers · [first-look-sites.vercel.app](https://firstlooksites.com) |
+| **First Look Sites** | Preview-first websites for dentists, agents & lawyers · [firstlooksites.com](https://firstlooksites.com) |
 | **Kitaab Nest** | Faceless knowledge channel · **~10.9K** subscribers · active team ops |
 | **The Velvet Dossier** | Faceless narrative channel · **~2.0K** subscribers · YPP milestone |
 | **The Access Route** | Faceless luxury travel research · live · team-operated |
@@ -84,7 +84,7 @@
 
 | System | Type | Live |
 |--------|------|------|
-| **First Look Sites** | Studio · preview-first websites · professionals | [first-look-sites.vercel.app](https://firstlooksites.com) |
+| **First Look Sites** | Studio · preview-first websites · professionals | [firstlooksites.com](https://firstlooksites.com) |
 | **RetentionYT** | AI SaaS for script retention | [retentionyt.com](https://retentionyt.com) |
 | **NSE Scan** | Scan → signal → tracking platform | [nsescan.vercel.app](https://nsescan.vercel.app) |
 | **Systems Showcase** | Public architecture & proof notes | [github.com/nirmallashkari/systems-showcase](https://github.com/nirmallashkari/systems-showcase) |
