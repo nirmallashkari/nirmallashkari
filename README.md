@@ -47,6 +47,7 @@
 |------------------|-------|------|
 | **First Look Sites** | High-converting websites & landing pages (Next.js, Cloudflare/Vercel, 100/100 Lighthouse) | [firstlooksites.com](https://firstlooksites.com) |
 | **FirstLook UGC Studio** | AI UGC & product video ad creatives for DTC brands & paid acquisition | [ugc.firstlooksites.com](https://ugc.firstlooksites.com) |
+| **SkincareHailey (72-Hr Build)** | Full beauty editorial & affiliate brand (Next.js, 43 guides, SEO/llms.txt + Pinterest & IG funnel) | [skincarehailey.com](https://skincarehailey.com) |
 | **RetentionYT** | AI SaaS for script retention & optimization | [retentionyt.com](https://retentionyt.com) |
 | **NSE Scan** | Market intelligence & signal-tracking platform | [nsescan.vercel.app](https://nsescan.vercel.app) |
 | **Daily Build Log** | Daily engineering recaps across AI agents, web perf & automation | [nirmal-blog](https://github.com/nirmallashkari/nirmal-blog) |
